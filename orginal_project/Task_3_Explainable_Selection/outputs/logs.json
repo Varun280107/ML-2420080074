@@ -1,0 +1,286 @@
+[
+    {
+        "data": [
+            6060.0,
+            11.0,
+            5.0,
+            2.0,
+            50.0
+        ],
+        "prediction": "Low",
+        "burnout_score": 0.0
+    },
+    {
+        "data": [
+            90.0,
+            9.0,
+            1.0,
+            90.0,
+            9.0
+        ],
+        "prediction": "Low",
+        "burnout_score": 0.0
+    },
+    {
+        "data": [
+            1.0,
+            20.0,
+            0.0,
+            100.0,
+            95.0
+        ],
+        "prediction": "Low",
+        "burnout_score": 0.0
+    },
+    {
+        "data": [
+            100.0,
+            10.0,
+            0.0,
+            100.0,
+            100.0
+        ],
+        "prediction": "Low",
+        "burnout_score": 0.0
+    },
+    {
+        "data": {
+            "attendance": 10.0,
+            "study_hours": 90.0,
+            "assignment_delay": 1.0,
+            "lms_usage": 90.0,
+            "performance": 80.0
+        },
+        "prediction": "Low",
+        "score": 0.0,
+        "timestamp": "2026-03-30 09:41:58.105821"
+    },
+    {
+        "data": {
+            "attendance": 85.0,
+            "study_hours": 4.0,
+            "assignment_delay": 1.0,
+            "lms_usage": 6.0,
+            "performance": 78.0
+        },
+        "prediction": "Low",
+        "burnout_score": 0.6,
+        "timestamp": "2026-03-31 12:07:15.180157"
+    },
+    {
+        "data": {
+            "attendance": 85.0,
+            "study_hours": 4.0,
+            "assignment_delay": 1.0,
+            "lms_usage": 6.0,
+            "performance": 78.0
+        },
+        "prediction": "Low",
+        "burnout_score": 0.6,
+        "timestamp": "2026-03-31 12:09:57.686000"
+    },
+    {
+        "data": {
+            "attendance": 85.0,
+            "study_hours": 4.0,
+            "assignment_delay": 1.0,
+            "lms_usage": 6.0,
+            "performance": 78.0
+        },
+        "prediction": "Low",
+        "burnout_score": 0.6,
+        "timestamp": "2026-03-31 12:13:30.672384"
+    },
+    {
+        "data": {
+            "attendance": 85.0,
+            "study_hours": 4.0,
+            "assignment_delay": 1.0,
+            "lms_usage": 6.0,
+            "performance": 78.0
+        },
+        "prediction": "Low",
+        "burnout_score": 0.6,
+        "timestamp": "2026-03-31 12:15:31.268607"
+    },
+    {
+        "data": {
+            "attendance": 85.0,
+            "study_hours": 4.0,
+            "assignment_delay": 1.0,
+            "lms_usage": 6.0,
+            "performance": 78.0
+        },
+        "prediction": "Low",
+        "burnout_score": 0.6,
+        "timestamp": "2026-03-31 12:15:47.711496"
+    },
+    {
+        "data": {
+            "attendance": 85.0,
+            "study_hours": 4.0,
+            "assignment_delay": 1.0,
+            "lms_usage": 6.0,
+            "performance": 78.0
+        },
+        "prediction": "Low",
+        "burnout_score": 0.6,
+        "timestamp": "2026-03-31 12:16:41.945899"
+    },
+    {
+        "data": {
+            "attendance": 85.0,
+            "study_hours": 4.0,
+            "assignment_delay": 1.0,
+            "lms_usage": 6.0,
+            "performance": 78.0
+        },
+        "prediction": "Low",
+        "burnout_score": 0.6,
+        "timestamp": "2026-03-31 12:22:55.944848"
+    },
+    {
+        "data": {
+            "attendance": 85.0,
+            "study_hours": 4.0,
+            "assignment_delay": 1.0,
+            "lms_usage": 6.0,
+            "performance": 78.0
+        },
+        "prediction": "Low",
+        "burnout_score": 0.6,
+        "timestamp": "2026-03-31 12:23:00.601746"
+    },
+    {
+        "data": {
+            "attendance": 1.0,
+            "study_hours": 1.0,
+            "assignment_delay": 1.0,
+            "lms_usage": 6.0,
+            "performance": 7.0
+        },
+        "prediction": "Medium",
+        "burnout_score": 55.19,
+        "timestamp": "2026-03-31 12:23:21.131714"
+    },
+    {
+        "data": {
+            "attendance": 1.0,
+            "study_hours": 1.0,
+            "assignment_delay": 1.0,
+            "lms_usage": 6.0,
+            "performance": 7.0
+        },
+        "prediction": "Medium",
+        "burnout_score": 55.19,
+        "timestamp": "2026-03-31 12:23:56.970272"
+    },
+    {
+        "data": {
+            "attendance": 1.0,
+            "study_hours": 1.0,
+            "assignment_delay": 1.0,
+            "lms_usage": 6.0,
+            "performance": 7.0
+        },
+        "prediction": "Medium",
+        "burnout_score": 55.19,
+        "timestamp": "2026-03-31 12:32:00.995998"
+    },
+    {
+        "data": {
+            "attendance": 100.0,
+            "study_hours": 2.0,
+            "assignment_delay": 0.0,
+            "lms_usage": 5.0,
+            "performance": 80.0
+        },
+        "prediction": "Low",
+        "burnout_score": 0.32,
+        "timestamp": "2026-03-31 12:32:44.563296"
+    },
+    {
+        "data": {
+            "attendance": 1.0,
+            "study_hours": 2.0,
+            "assignment_delay": 0.0,
+            "lms_usage": 5.0,
+            "performance": 80.0
+        },
+        "prediction": "Medium",
+        "burnout_score": 49.71,
+        "timestamp": "2026-03-31 12:33:11.154907"
+    },
+    {
+        "data": {
+            "attendance": 100.0,
+            "study_hours": 5.0,
+            "assignment_delay": 1.0,
+            "lms_usage": 12.0,
+            "performance": 70.0
+        },
+        "prediction": "Low",
+        "burnout_score": 0.02,
+        "timestamp": "2026-03-31 14:28:18.402650"
+    },
+    {
+        "data": {
+            "attendance": 100.0,
+            "study_hours": 5.0,
+            "assignment_delay": 1.0,
+            "lms_usage": 12.0,
+            "performance": 30.0
+        },
+        "prediction": "Low",
+        "burnout_score": 0.02,
+        "timestamp": "2026-03-31 14:41:06.147547"
+    },
+    {
+        "data": {
+            "attendance": 100.0,
+            "study_hours": 5.0,
+            "assignment_delay": 1.0,
+            "lms_usage": 22.0,
+            "performance": 30.0
+        },
+        "prediction": "Low",
+        "burnout_score": 0.02,
+        "timestamp": "2026-03-31 14:41:32.093730"
+    },
+    {
+        "data": {
+            "attendance": 100.0,
+            "study_hours": 5.0,
+            "assignment_delay": 1.0,
+            "lms_usage": 22.0,
+            "performance": 0.0
+        },
+        "prediction": "Low",
+        "burnout_score": 0.02,
+        "timestamp": "2026-03-31 14:41:46.409666"
+    },
+    {
+        "data": {
+            "attendance": 100.0,
+            "study_hours": 24.0,
+            "assignment_delay": 1.0,
+            "lms_usage": 24.0,
+            "performance": 100.0
+        },
+        "prediction": "Low",
+        "burnout_score": 0.0,
+        "timestamp": "2026-03-31 14:42:04.406849"
+    },
+    {
+        "data": {
+            "attendance": 0.0,
+            "study_hours": 0.0,
+            "assignment_delay": 34.0,
+            "lms_usage": 0.0,
+            "performance": 0.0
+        },
+        "prediction": "High",
+        "burnout_score": 100.0,
+        "timestamp": "2026-03-31 14:42:31.099478"
+    }
+]
